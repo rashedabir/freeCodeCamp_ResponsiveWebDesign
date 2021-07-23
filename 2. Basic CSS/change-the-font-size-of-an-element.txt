@@ -1,0 +1,10 @@
+<style>
+  p{
+    font-size: 16px;
+  }
+</style>
+
+
+
+<h1 class="red-text">CatPhotoApp</h1>
+<p class="red-text">CatPhotoApp</p>

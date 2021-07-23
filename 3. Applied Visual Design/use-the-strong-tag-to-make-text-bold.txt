@@ -1,0 +1,27 @@
+<style>
+    h4 {
+        text-align: center;
+        height: 25px;
+    }
+    p {
+        text-align: justify;
+    }
+    .card-img-top {
+        width: 75px;
+    }
+</style>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <div class="card">
+      <img class="card-img-top" src="https://bit.ly/smallgooglelogo" alt="Google's Logo">
+      <div class="card-block">
+        <h4 class="card-title">Google</h4>
+        <p class="card-text">Google was founded by Larry Page and Sergey Brin while they were Ph.D. students at <strong>Stanford University</strong>.</p>
+      </div>
+      <div class="list-group">
+        <a href="https://en.wikipedia.org/wiki/Larry_Page" class="list-group-item list-group-item-action">Larry Page</a>
+        <a href="https://en.wikipedia.org/wiki/Sergey_Brin" class="list-group-item list-group-item-action">Sergey Brin</a>
+      </div>
+    </div>
+  </div>
+</div>

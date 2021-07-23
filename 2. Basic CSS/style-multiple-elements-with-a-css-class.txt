@@ -1,0 +1,10 @@
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
+
+
+
+<h2 class="red-text">CatPhotoApp</h2>
+<p class="red-text">CatPhotoApp</p>

@@ -1,0 +1,13 @@
+<style>
+  h2{
+    font-family: Lobster;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+</style>
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<h2>CatPhotoApp</h2>
+<p>CatPhotoApp</p>
